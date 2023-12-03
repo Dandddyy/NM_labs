@@ -1,0 +1,3 @@
+C:/Users/Koval/CLionProjects/NMlab1/cmake-build-debug/CMakeFiles/NMlab1.dir
+C:/Users/Koval/CLionProjects/NMlab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Koval/CLionProjects/NMlab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
